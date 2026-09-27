@@ -1,10 +1,10 @@
 <div align="center">
 
-# Ashish Lal
+# ASHISH LAL
 
-### AI/ML Engineer · AI Systems Builder · Backend & Research
+### AI/ML Engineer · AI Systems · Backend · Research
 
-I build **AI systems, intelligent software, and production-oriented backends** — from reinforcement-learning infrastructure and autonomous agents to civic AI platforms and applied machine learning.
+Building intelligent software systems where **machine learning meets real engineering**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish%20Lal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishlal20)
 [![GitHub](https://img.shields.io/badge/GitHub-Weirdgamer20-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Weirdgamer20)
@@ -13,132 +13,153 @@ I build **AI systems, intelligent software, and production-oriented backends** �
 
 ---
 
-## What I Build
+## Profile
 
-```text
-AI / ML
-  ├── Reinforcement Learning
-  ├── Intelligent Agents
-  ├── Applied Machine Learning
-  └── AI-assisted Decision Systems
+I am an engineering-focused developer working across **AI/ML, reinforcement learning, intelligent agents, backend systems, and applied research**.
 
-Systems Engineering
-  ├── Backend & APIs
-  ├── Distributed / Async Workloads
-  ├── Data & Persistence
-  └── Production-oriented Architecture
+My strongest projects are not isolated notebooks or UI demos. They are attempts to turn research ideas into systems with explicit architecture, interfaces, evaluation, persistence, and operational constraints.
 
-Research
-  ├── World Models & Autonomous Learning
-  ├── Simulation
-  ├── Optimization
-  └── Emerging AI Systems
-```
+**Primary interests:**
+
+`AI Engineering` · `Reinforcement Learning` · `Intelligent Agents` · `Backend Systems` · `Applied ML` · `Simulation` · `Optimization`
 
 ---
 
-## Selected Work
+## Selected Engineering Work
 
-### TradeHive — RL Trading Infrastructure
-**Rust · Reinforcement Learning · Risk Engineering · Systems**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Experimental autonomous trading infrastructure built around a strict separation between learned decision-making and deterministic risk controls.
+### TradeHive
+**RL Trading Infrastructure**
 
-**Focus:** execution · reconciliation · persistence · risk governance · RL infrastructure
+Rust-based experimental trading infrastructure separating learned decision-making from deterministic risk governance.
 
-→ [View repository](https://github.com/Weirdgamer20/tradehive)
+`Rust` `RL` `Risk Engineering` `Systems`
 
----
+[Repository →](https://github.com/Weirdgamer20/tradehive)
 
-### EcoConnect — AI Civic Intelligence Platform
-**Next.js · TypeScript · Express · PostgreSQL · Redis · Gemini**
+</td>
+<td width="50%" valign="top">
 
-A full-stack civic platform for turning community reports into structured, prioritized and accountable issues using AI-assisted classification and clustering.
+### EcoConnect
+**AI Civic Intelligence**
 
-**Focus:** AI workflows · RBAC · background jobs · audit logging · rate limiting · civic issue intelligence
+Full-stack platform for evidence-backed civic reporting, AI-assisted triage, issue clustering, prioritization and accountable resolution workflows.
 
-→ [View repository](https://github.com/Weirdgamer20/Eco-connect)
+`Next.js` `TypeScript` `PostgreSQL` `Redis` `Gemini`
 
----
+[Repository →](https://github.com/Weirdgamer20/Eco-connect) · [Live Web →](https://ecoconnect-web-production.up.railway.app)
 
-### RLLS16 — Reinforcement Learning & Simulation
-**Python · PyTorch · RL · Simulation · Spatial Systems**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A large-scale simulation and reinforcement-learning environment combining multi-layer world dynamics, spatial chunking, intelligent agents and high-frequency rendering.
+### RLLS16
+**Reinforcement Learning + Simulation**
 
-**Focus:** simulation architecture · RL agents · spatial systems · multi-rate computation
+Large simulation environment combining world dynamics, spatial systems, intelligent agents and multi-rate computation.
 
-→ [View repository](https://github.com/Weirdgamer20/RLLS16)
+`Python` `PyTorch` `RL` `Simulation`
 
----
+[Repository →](https://github.com/Weirdgamer20/RLLS16)
 
-### Mine-Bot — Autonomous Minecraft Learning System
-**PyTorch · World Models · RL · MPC · DIAYN · Mineflayer**
+</td>
+<td width="50%" valign="top">
 
-An embodied learning system designed to learn Minecraft survival and interaction through structured observations, persistent memory, learned world dynamics and latent planning.
+### Mine-Bot
+**Autonomous Learning Agent**
 
-**Focus:** world models · curiosity · skill discovery · latent MPC · lifelong learning
+Minecraft learning system exploring world models, curiosity, skill discovery, persistent memory and latent planning.
 
-→ [View repository](https://github.com/Weirdgamer20/Mine-Bot)
+`PyTorch` `World Models` `RL` `MPC`
 
----
+[Repository →](https://github.com/Weirdgamer20/Mine-Bot)
 
-### Farm Advisor — Applied ML
-**Python · FastAPI · React · Scikit-learn · TensorFlow**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-An applied ML platform combining crop recommendation, soil intelligence, weather context and plant-disease classification.
+### Farm Advisor
+**Applied Machine Learning**
 
-**Focus:** applied ML · model evaluation · inference APIs · practical decision support
+Decision-support platform combining crop recommendation, soil intelligence, weather context and plant-disease classification.
 
-→ [View repository](https://github.com/Weirdgamer20/farm-advisor-1)
+`Python` `FastAPI` `React` `Scikit-learn` `TensorFlow`
+
+[Repository →](https://github.com/Weirdgamer20/farm-advisor-1)
+
+</td>
+<td width="50%" valign="top">
+
+### Quantum VRP / AQTRO
+**Optimization Research**
+
+Research direction focused on vehicle-routing optimization and future quantum/meta-learning approaches.
+
+`Optimization` `Quantum Computing` `Meta-Learning` `Research`
+
+[Repository →](https://github.com/Weirdgamer20/SIH2026-Quantum-VRP)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Engineering Stack
 
-**Languages**  
-`Python` `TypeScript` `JavaScript` `Rust` `SQL`
-
-**AI / ML**  
-`PyTorch` `TensorFlow` `Scikit-learn` `Reinforcement Learning` `World Models`
-
-**Backend**  
-`FastAPI` `Express` `Node.js` `REST APIs` `PostgreSQL` `Redis`
-
-**Systems & Tooling**  
-`Docker` `Linux` `Git` `GitHub Actions` `AWS` `Railway`
+| Area | Technologies |
+|---|---|
+| **Languages** | Python · TypeScript · JavaScript · Rust · SQL |
+| **AI / ML** | PyTorch · TensorFlow · Scikit-learn · Reinforcement Learning · World Models |
+| **Backend** | FastAPI · Express · Node.js · REST APIs · PostgreSQL · Redis |
+| **Infrastructure** | Docker · Linux · AWS · Railway · GitHub Actions |
+| **Research** | RL · Autonomous Agents · Simulation · Optimization · AI Systems |
 
 ---
 
-## Engineering Philosophy
+## How I Engineer
 
 > **Build systems, not demos.**
 
-I care about the boundary between an idea and a system that can actually be evaluated, operated and improved.
+I focus on:
 
-My projects typically emphasize:
-
-- explicit architecture and module boundaries
-- deterministic interfaces around learned components
-- measurable behavior rather than claims
-- failure handling and observability
-- reproducible development environments
-- research ideas translated into working systems
+- clear module boundaries and explicit interfaces
+- deterministic controls around learned components
+- measurable behavior instead of unsupported claims
+- failure handling and operational constraints
+- reproducible environments
+- research ideas translated into executable systems
 
 ---
 
 ## Current Direction
 
-**AI Engineering → Intelligent Systems → AI/ML Research**
+```text
+AI Engineering
+      ↓
+Intelligent Systems
+      ↓
+Reinforcement Learning + Autonomous Agents
+      ↓
+AI/ML Research
+```
 
-Currently focused on building stronger foundations in machine learning, backend engineering, reinforcement learning and autonomous systems while turning research concepts into executable systems.
+Current focus areas include stronger ML foundations, backend engineering, reinforcement learning, autonomous systems and optimization research.
 
 ---
+
+## Contact
+
+**LinkedIn:** [linkedin.com/in/ashishlal20](https://www.linkedin.com/in/ashishlal20)  
+**GitHub:** [github.com/Weirdgamer20](https://github.com/Weirdgamer20)
 
 <div align="center">
 
 ### Open to AI/ML · AI Engineering · Backend · Research Internships
-
-[LinkedIn](https://www.linkedin.com/in/ashishlal20) · [GitHub](https://github.com/Weirdgamer20)
 
 </div>
