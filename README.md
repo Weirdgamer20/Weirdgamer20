@@ -1,61 +1,75 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Ashish Lal — AI and ML engineering, systems and research" width="100%" />
+<img src="./assets/hero.svg" alt="Abstract intelligent systems visualization" width="100%" />
+
+# ASHISH LAL
 
 **AI / ML Engineer · AI Systems · Backend · Research**
 
-Building intelligent systems where machine learning meets real software architecture.
+I build intelligent systems at the boundary of **machine learning, software architecture, and autonomous decision-making**.
 
-<a href="https://github.com/Weirdgamer20">GitHub</a> · <a href="https://www.linkedin.com/in/ashishlal20">LinkedIn</a>
+[GitHub](https://github.com/Weirdgamer20) · [LinkedIn](https://www.linkedin.com/in/ashishlal20)
 
 </div>
 
 ---
 
-## Selected Systems
+## Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Weirdgamer20/tradehive">
-<img src="./assets/tradehive.svg" alt="TradeHive — reinforcement learning trading infrastructure" width="100%" />
-</a>
+### TradeHive
 
-**TradeHive**  
-Rust · Reinforcement Learning · Risk Systems
+**Reinforcement-learning trading infrastructure**
+
+A systems-oriented trading platform separating learned strategy from deterministic risk, execution, and reconciliation.
+
+`Rust` `RL` `Risk Systems`
+
+[Repository →](https://github.com/Weirdgamer20/tradehive)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Weirdgamer20/Eco-connect">
-<img src="./assets/ecoconnect.svg" alt="EcoConnect — AI civic intelligence platform" width="100%" />
-</a>
+### EcoConnect
 
-**EcoConnect**  
-Next.js · TypeScript · PostgreSQL · Redis · Gemini
+**AI civic issue intelligence**
+
+A full-stack platform for collecting civic reports, applying AI triage, clustering related issues, and routing them toward accountable resolution.
+
+`Next.js` `TypeScript` `PostgreSQL` `Redis`
+
+[Repository →](https://github.com/Weirdgamer20/Eco-connect)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Weirdgamer20/RLLS16">
-<img src="./assets/rlls16.svg" alt="RLLS16 — reinforcement learning simulation" width="100%" />
-</a>
+### RLLS16
 
-**RLLS16**  
-Python · PyTorch · Reinforcement Learning · Simulation
+**Reinforcement-learning simulation**
+
+An experimental environment for studying agents, world dynamics, spatial behavior, and measurable simulation outcomes.
+
+`Python` `PyTorch` `RL` `Simulation`
+
+[Repository →](https://github.com/Weirdgamer20/RLLS16)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Weirdgamer20/Mine-Bot">
-<img src="./assets/minebot.svg" alt="Mine-Bot — autonomous Minecraft learning agent" width="100%" />
-</a>
+### Mine-Bot
 
-**Mine-Bot**  
-World Models · RL · Curiosity · Planning
+**Autonomous learning agent for Minecraft**
+
+An attempt to move from scripted gameplay toward perception, memory, planning, action, and environment feedback.
+
+`Python` `RL` `World Models` `Planning`
+
+[Repository →](https://github.com/Weirdgamer20/Mine-Bot)
 
 </td>
 </tr>
@@ -63,45 +77,48 @@ World Models · RL · Curiosity · Planning
 
 ### Farm Advisor
 
-<a href="https://github.com/Weirdgamer20/farm-advisor-1">
-<img src="./assets/farm-advisor.svg" alt="Farm Advisor — applied machine learning for agricultural intelligence" width="100%" />
-</a>
+**Applied machine learning for agricultural intelligence**
 
-Python · FastAPI · React · Scikit-learn · TensorFlow
+Crop recommendation, soil intelligence, weather context, and disease-oriented computer vision in one applied ML system.
+
+`FastAPI` `React` `Scikit-learn` `TensorFlow`
+
+[Repository →](https://github.com/Weirdgamer20/farm-advisor-1)
 
 ---
 
-## Research
+## Research Direction
 
-**Quantum VRP / AQTRO**  
-Vehicle-routing optimization research exploring quantum approaches and future meta-learning methods.
+### Quantum VRP / AQTRO
+
+Researching optimization methods for vehicle-routing problems with an eventual focus on **quantum approaches and meta-learning**.
 
 `Optimization` `Quantum Computing` `Meta-Learning`
 
-<a href="https://github.com/Weirdgamer20/SIH2026-Quantum-VRP">Research repository →</a>
+[Research repository →](https://github.com/Weirdgamer20/SIH2026-Quantum-VRP)
 
 ---
 
-## Engineering Focus
+## Engineering Stack
 
-| Area | Focus |
+| Domain | Technologies |
 |---|---|
 | **AI / ML** | PyTorch · TensorFlow · Scikit-learn · Reinforcement Learning · World Models |
-| **Systems** | Intelligent Agents · Simulation · Optimization · Evaluation |
 | **Backend** | FastAPI · Node.js · REST · PostgreSQL · Redis |
-| **Infrastructure** | Docker · Linux · AWS · Railway · GitHub Actions |
+| **Systems** | Agents · Simulation · Optimization · Evaluation |
+| **Infrastructure** | Docker · AWS · Railway · GitHub Actions |
 | **Languages** | Python · TypeScript · JavaScript · Rust · SQL |
 
 > **Build systems, not demos.**
 
-I care about explicit interfaces, deterministic boundaries around learned components, reproducibility, measurable behavior, and failure-aware system design.
-
----
+I value explicit interfaces, deterministic boundaries around learned components, reproducibility, measurable behavior, and failure-aware design.
 
 <div align="center">
 
-### AI/ML · AI Engineering · Backend · Research
+---
 
-<a href="https://www.linkedin.com/in/ashishlal20">Connect on LinkedIn →</a>
+**AI / ML · AI Engineering · Backend · Research**
+
+[Connect on LinkedIn →](https://www.linkedin.com/in/ashishlal20)
 
 </div>
