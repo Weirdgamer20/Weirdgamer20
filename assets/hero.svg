@@ -1,32 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 620" role="img" aria-labelledby="title desc">
-<title id="title">Ashish Lal — AI and ML engineering</title>
-<desc id="desc">Dark technical portfolio hero showing an abstract intelligent systems graph.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
+<title id="title">Abstract intelligent systems visualization</title>
+<desc id="desc">Minimal dark visualization of connected systems, data flow and machine learning signals.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070b12"/><stop offset="0.55" stop-color="#0b1320"/><stop offset="1" stop-color="#07131a"/></linearGradient>
-  <radialGradient id="glow"><stop stop-color="#2dd4bf" stop-opacity=".22"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></radialGradient>
-  <linearGradient id="line" x1="0" x2="1"><stop stop-color="#38bdf8" stop-opacity=".1"/><stop offset=".5" stop-color="#2dd4bf" stop-opacity=".7"/><stop offset="1" stop-color="#38bdf8" stop-opacity=".08"/></linearGradient>
-  <filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07090d"/><stop offset="1" stop-color="#10151d"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#60a5fa" stop-opacity=".14"/><stop offset="1" stop-color="#60a5fa" stop-opacity="0"/></radialGradient>
+  <linearGradient id="flow"><stop stop-color="#60a5fa" stop-opacity=".05"/><stop offset=".5" stop-color="#93c5fd" stop-opacity=".55"/><stop offset="1" stop-color="#60a5fa" stop-opacity=".04"/></linearGradient>
 </defs>
-<rect width="1600" height="620" rx="28" fill="url(#bg)"/>
-<circle cx="1260" cy="130" r="300" fill="url(#glow)" filter="url(#blur)"/>
-<circle cx="1480" cy="520" r="260" fill="#38bdf8" opacity=".06" filter="url(#blur)"/>
-<g opacity=".18" stroke="#94a3b8" stroke-width="1">
- <path d="M0 100H1600M0 200H1600M0 300H1600M0 400H1600M0 500H1600"/>
- <path d="M160 0V620M320 0V620M480 0V620M640 0V620M800 0V620M960 0V620M1120 0V620M1280 0V620M1440 0V620"/>
+<rect width="1600" height="500" fill="url(#bg)"/>
+<circle cx="1250" cy="100" r="320" fill="url(#glow)"/>
+<g opacity=".09" stroke="#cbd5e1" stroke-width="1">
+ <path d="M0 100H1600M0 200H1600M0 300H1600M0 400H1600"/>
+ <path d="M200 0V500M400 0V500M600 0V500M800 0V500M1000 0V500M1200 0V500M1400 0V500"/>
 </g>
-<g stroke="url(#line)" stroke-width="2" fill="none">
- <path d="M910 120 L1080 205 L1240 145 L1390 245 L1530 180"/>
- <path d="M940 360 L1080 205 L1190 390 L1390 245 L1510 430"/>
- <path d="M1080 205 L1190 390 L1510 430"/>
+<g fill="none" stroke="url(#flow)" stroke-width="2">
+ <path d="M720 250 L860 170 L1010 245 L1160 135 L1320 210 L1480 115"/>
+ <path d="M860 170 L930 355 L1080 300 L1160 135"/>
+ <path d="M1010 245 L1080 300 L1320 210 L1420 365"/>
 </g>
-<g fill="#5eead4">
- <circle cx="910" cy="120" r="5"/><circle cx="1080" cy="205" r="7"/><circle cx="1240" cy="145" r="5"/><circle cx="1390" cy="245" r="7"/><circle cx="1530" cy="180" r="5"/><circle cx="940" cy="360" r="5"/><circle cx="1190" cy="390" r="7"/><circle cx="1510" cy="430" r="5"/>
+<g fill="#93c5fd">
+ <circle cx="720" cy="250" r="4"/><circle cx="860" cy="170" r="5"/><circle cx="1010" cy="245" r="4"/><circle cx="1160" cy="135" r="5"/><circle cx="1320" cy="210" r="4"/><circle cx="1480" cy="115" r="4"/><circle cx="930" cy="355" r="4"/><circle cx="1080" cy="300" r="5"/><circle cx="1420" cy="365" r="4"/>
 </g>
-<rect x="74" y="74" width="1452" height="472" rx="22" fill="#020617" fill-opacity=".48" stroke="#334155"/>
-<text x="120" y="165" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" letter-spacing="5">AI / ML ENGINEERING • SYSTEMS • RESEARCH</text>
-<text x="120" y="270" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="76" font-weight="700">ASHISH LAL</text>
-<text x="120" y="326" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28">Building intelligent systems where machine learning meets</text>
-<text x="120" y="366" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28">real software architecture.</text>
-<rect x="120" y="418" width="330" height="54" rx="27" fill="#0f172a" stroke="#2dd4bf" stroke-opacity=".55"/>
-<text x="285" y="453" text-anchor="middle" fill="#99f6e4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" letter-spacing="2">BUILD • MEASURE • ITERATE</text>
+<path d="M0 455 C320 420 480 470 700 430 S1080 455 1600 390" fill="none" stroke="#60a5fa" stroke-opacity=".07" stroke-width="2"/>
 </svg>
